@@ -141,7 +141,7 @@ public class Finance {
 			   "\nUtility Fee\t\t\t   : RM " + df2.format(this.utilityFee) +
 			   "\nAdvertisement Fee\t\t   : RM " + df2.format(this.advertisementFee) + 
 			   "\nPrize budgeted\t\t\t   : RM " + df2.format(this.prize) +
-			   "\n\nEmployee Salary\t\t\t   : RM " + df2.format(this.employeeQuantity) +
+			   "\n\nEmployee Salary\t\t\t   : RM " + df2.format(this.employeeSalary) +
 			   "\nQuantity of Employee\t\t   : " + this.employeeQuantity +
 			   "\nTotal Salary\t\t\t   : RM " + df2.format(totalSalary()) +
 			   "\n\nRegistration fee\t\t   : RM " + df2.format(this.registrationFee) +
